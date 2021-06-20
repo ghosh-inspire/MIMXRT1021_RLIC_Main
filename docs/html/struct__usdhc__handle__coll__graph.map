@@ -1,0 +1,6 @@
+<map id="_usdhc_handle" name="_usdhc_handle">
+<area shape="rect" id="node1" title="USDHC handle." alt="" coords="226,95,345,121"/>
+<area shape="rect" id="node2" href="$struct__usdhc__transfer__callback.html" title="USDHC callback functions." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node3" href="$struct__usdhc__command.html" title="Card command descriptor." alt="" coords="216,5,355,32"/>
+<area shape="rect" id="node4" href="$struct__usdhc__data.html" title="Card data descriptor." alt="" coords="379,5,482,32"/>
+</map>

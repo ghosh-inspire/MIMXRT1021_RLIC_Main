@@ -1,0 +1,41 @@
+<map id="source/MIMXRT1021_RLIC_Main.cpp" name="source/MIMXRT1021_RLIC_Main.cpp">
+<area shape="rect" id="node1" title="Application entry point: Reinforcement Learning based Illumination Controller (RLIC)" alt="" coords="988,5,1179,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="494,244,561,271"/>
+<area shape="rect" id="node3" href="$board_8h_source.html" title=" " alt="" coords="1146,244,1216,271"/>
+<area shape="rect" id="node4" href="$clock__config_8h_source.html" title=" " alt="" coords="1244,326,1358,353"/>
+<area shape="rect" id="node14" href="$peripherals_8h_source.html" title=" " alt="" coords="585,244,692,271"/>
+<area shape="rect" id="node22" href="$pin__mux_8h_source.html" title=" " alt="" coords="730,244,821,271"/>
+<area shape="rect" id="node23" href="$MIMXRT1021_8h.html" title="CMSIS Peripheral Access Layer for MIMXRT1021." alt="" coords="1492,244,1611,271"/>
+<area shape="rect" id="node26" href="$fsl__debug__console_8h_source.html" title=" " alt="" coords="852,244,1006,271"/>
+<area shape="rect" id="node28" href="$systick__delay_8h.html" title=" " alt="" coords="812,169,934,196"/>
+<area shape="rect" id="node29" href="$Adafruit__Sensor_8h.html" title=" " alt="" coords="1393,169,1529,196"/>
+<area shape="rect" id="node31" href="$Adafruit__TSL2591_8h.html" title=" " alt="" coords="1010,95,1158,121"/>
+<area shape="rect" id="node32" href="$HT16K33__Simple_8h.html" title=" " alt="" coords="1122,169,1267,196"/>
+<area shape="rect" id="node33" href="$QLearning_8h.html" title=" " alt="" coords="1766,95,1866,121"/>
+<area shape="rect" id="node39" href="$fsl__wdog_8h_source.html" title=" " alt="" coords="294,95,386,121"/>
+<area shape="rect" id="node5" href="$fsl__common_8h_source.html" title=" " alt="" coords="581,408,696,435"/>
+<area shape="rect" id="node13" href="$fsl__gpio_8h_source.html" title=" " alt="" coords="1084,326,1169,353"/>
+<area shape="rect" id="node6" title=" " alt="" coords="650,483,725,509"/>
+<area shape="rect" id="node7" title=" " alt="" coords="749,483,832,509"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1551,483,1622,509"/>
+<area shape="rect" id="node9" title=" " alt="" coords="555,483,626,509"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1108,483,1179,509"/>
+<area shape="rect" id="node11" href="$fsl__device__registers_8h_source.html" title=" " alt="" coords="367,483,531,509"/>
+<area shape="rect" id="node12" href="$fsl__clock_8h.html" title=" " alt="" coords="252,483,342,509"/>
+<area shape="rect" id="node15" href="$fsl__lpi2c_8h_source.html" title=" " alt="" coords="25,326,113,353"/>
+<area shape="rect" id="node17" href="$fsl__lpuart_8h_source.html" title=" " alt="" coords="676,326,771,353"/>
+<area shape="rect" id="node18" href="$fsl__semc_8h_source.html" title=" " alt="" coords="188,326,280,353"/>
+<area shape="rect" id="node19" href="$fsl__gpt_8h_source.html" title=" " alt="" coords="304,326,383,353"/>
+<area shape="rect" id="node20" href="$fsl__qtmr_8h_source.html" title=" " alt="" coords="407,326,494,353"/>
+<area shape="rect" id="node21" href="$fsl__trng_8h_source.html" title=" " alt="" coords="518,326,601,353"/>
+<area shape="rect" id="node16" title=" " alt="" coords="32,408,106,435"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1434,326,1531,353"/>
+<area shape="rect" id="node25" href="$system__MIMXRT1021_8h_source.html" title=" " alt="" coords="1436,408,1611,435"/>
+<area shape="rect" id="node27" title=" " alt="" coords="847,319,1008,360"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1393,244,1468,271"/>
+<area shape="rect" id="node34" href="$SDMMC__Simple_8h.html" title=" " alt="" coords="1747,169,1884,196"/>
+<area shape="rect" id="node35" href="$sdmmc__config_8h_source.html" title=" " alt="" coords="1697,244,1825,271"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1849,244,1892,271"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1880,326,2020,353"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1687,326,1856,353"/>
+</map>

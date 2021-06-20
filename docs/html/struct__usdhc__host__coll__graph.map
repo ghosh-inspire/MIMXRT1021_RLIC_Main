@@ -1,0 +1,6 @@
+<map id="_usdhc_host" name="_usdhc_host">
+<area shape="rect" id="node1" title="USDHC host descriptor." alt="" coords="142,109,245,136"/>
+<area shape="rect" id="node2" href="$structUSDHC__Type.html" title=" " alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node3" href="$struct__usdhc__config.html" title="Data structure to initialize the USDHC." alt="" coords="137,5,250,32"/>
+<area shape="rect" id="node4" href="$struct__usdhc__capability.html" title="USDHC capability information." alt="" coords="275,5,413,32"/>
+</map>

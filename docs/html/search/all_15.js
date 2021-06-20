@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['v_7895',['v',['../structsensors__vec__t.html#a5114a743de9aab053acce7722f394bc4',1,'sensors_vec_t']]],
+  ['val0_7896',['VAL0',['../group__iomuxc__pads.html#ga6c23a1979d6925698d61079c7e54717d',1,'PWM_Type::VAL0()'],['../group__iomuxc__pads.html#gaebb6a4335eb784a47883e1b21ad1e63e',1,'PWM_Type::@57::VAL0()']]],
+  ['val1_7897',['VAL1',['../group__iomuxc__pads.html#ga1cc8cb606e71dc8f349bca5a0818c199',1,'PWM_Type::VAL1()'],['../group__iomuxc__pads.html#ga09728d820c2adee6ac2e4bf226632c7b',1,'PWM_Type::@57::VAL1()']]],
+  ['val2_7898',['VAL2',['../group__iomuxc__pads.html#ga6c4b3e5bb89d13c5aa49c8c024faa5b8',1,'PWM_Type::VAL2()'],['../group__iomuxc__pads.html#gac09cd4db4df4b7a1982e4b9f72eb0da3',1,'PWM_Type::@57::VAL2()']]],
+  ['val3_7899',['VAL3',['../group__iomuxc__pads.html#gac0444b17505c86d412ce1f0ca53df700',1,'PWM_Type::VAL3()'],['../group__iomuxc__pads.html#ga2dbc44ebf6d763f86533acff0a7ea4b6',1,'PWM_Type::@57::VAL3()']]],
+  ['val4_7900',['VAL4',['../group__iomuxc__pads.html#gac95aac411a40b624eb83a7ba779e960c',1,'PWM_Type::VAL4()'],['../group__iomuxc__pads.html#gad0838f0f582b5df6c7f0d041c563db9b',1,'PWM_Type::@57::VAL4()']]],
+  ['val5_7901',['VAL5',['../group__iomuxc__pads.html#ga8deb507f20d74e1d08958382db476c03',1,'PWM_Type::VAL5()'],['../group__iomuxc__pads.html#gabe843693f6b1c2540941fd8acf13d9c0',1,'PWM_Type::@57::VAL5()']]],
+  ['vbus_5fdetect_7902',['VBUS_DETECT',['../group__iomuxc__pads.html#ga0ab34be14902cc57d1d8aaca1e329c33',1,'USB_ANALOG_Type::VBUS_DETECT()'],['../group__iomuxc__pads.html#gab16537d8711475e8a54f8ebb6c65f3b7',1,'USB_ANALOG_Type::@85::VBUS_DETECT()']]],
+  ['vbus_5fdetect_5fclr_7903',['VBUS_DETECT_CLR',['../group__iomuxc__pads.html#gac6d67d53fb6f0a700cd87ba8e1f71aec',1,'USB_ANALOG_Type::VBUS_DETECT_CLR()'],['../group__iomuxc__pads.html#ga57f68e1ccbc4776f04e772ce157304f2',1,'USB_ANALOG_Type::@85::VBUS_DETECT_CLR()']]],
+  ['vbus_5fdetect_5fset_7904',['VBUS_DETECT_SET',['../group__iomuxc__pads.html#ga742546d5efff9753ccab5710d55ec24e',1,'USB_ANALOG_Type::VBUS_DETECT_SET()'],['../group__iomuxc__pads.html#ga4f7e851e7135e5b540ad99ea76d1d440',1,'USB_ANALOG_Type::@85::VBUS_DETECT_SET()']]],
+  ['vbus_5fdetect_5fstat_7905',['VBUS_DETECT_STAT',['../group__iomuxc__pads.html#gac9e627cc651c03523a90d42152913006',1,'USB_ANALOG_Type::VBUS_DETECT_STAT()'],['../group__iomuxc__pads.html#ga7df0109cc4a4910978789f8c2706d370',1,'USB_ANALOG_Type::@85::VBUS_DETECT_STAT()']]],
+  ['vbus_5fdetect_5ftog_7906',['VBUS_DETECT_TOG',['../group__iomuxc__pads.html#gaee64d3ab145b255f865cadb3d305a8b8',1,'USB_ANALOG_Type::VBUS_DETECT_TOG()'],['../group__iomuxc__pads.html#ga2f3e39f4536b72a7d14c53eb0cb42c92',1,'USB_ANALOG_Type::@85::VBUS_DETECT_TOG()']]],
+  ['vend_5fspec_7907',['VEND_SPEC',['../group__iomuxc__pads.html#ga9d0852477635e02e0eef0cb859d3a562',1,'USDHC_Type']]],
+  ['vend_5fspec2_7908',['VEND_SPEC2',['../group__iomuxc__pads.html#gac80f629958709bf6a6fb62903e7b524b',1,'USDHC_Type']]],
+  ['verid_7909',['VERID',['../group__iomuxc__pads.html#gaf7113682dc68def4cb5a0fd2014c542c',1,'LPUART_Type::VERID()'],['../group__iomuxc__pads.html#ga95f71dbc953fdcbb923c7446ba479ec9',1,'LPSPI_Type::VERID()'],['../group__iomuxc__pads.html#ga12c3ad0986d80217e09098aa4fe72244',1,'LPI2C_Type::VERID()'],['../group__iomuxc__pads.html#gaf76501e6bc95c56a30693b9f7c6bf82a',1,'I2S_Type::VERID()'],['../group__iomuxc__pads.html#gabc4f6d592c66d90fa401ccc1a23f876c',1,'FLEXIO_Type::VERID()']]],
+  ['version_7910',['version',['../struct__FlexSPIConfig.html#a01b045ecafd93aa5cad71bd296b74ed4',1,'_FlexSPIConfig::version()'],['../structsensors__event__t.html#a2134d60fdb21e3495c595a2df2f5cece',1,'sensors_event_t::version()'],['../structsensor__t.html#a274f12a47669fbd2b61935706339e1c2',1,'sensor_t::version()']]],
+  ['version_7911',['VERSION',['../group__iomuxc__pads.html#gac7fa35387472befca8002b4082e2ea36',1,'DCP_Type::VERSION()'],['../group__iomuxc__pads.html#gad11c6c3abbc4b96a138c45d7eaffcabb',1,'OCOTP_Type::VERSION()'],['../group__iomuxc__pads.html#gab7f455b9c18edaa3a14f6fcf093a35e9',1,'USBPHY_Type::VERSION()']]],
+  ['vid1_7912',['VID1',['../group__iomuxc__pads.html#ga05ca989c83a19760d36b019926026d4f',1,'TRNG_Type']]],
+  ['vid2_7913',['VID2',['../group__iomuxc__pads.html#ga8c0150cdad04810c3cbd50a3a6fcbba4',1,'TRNG_Type']]],
+  ['voltage_7914',['voltage',['../structsensors__event__t.html#ab01b52f6b83f390a6370d319ded97b28',1,'sensors_event_t']]]
+];

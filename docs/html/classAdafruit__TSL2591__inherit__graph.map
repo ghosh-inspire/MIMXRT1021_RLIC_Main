@@ -1,0 +1,4 @@
+<map id="Adafruit_TSL2591" name="Adafruit_TSL2591">
+<area shape="rect" id="node1" title="Class that stores state and functions for interacting with TSL2591 Light Sensor." alt="" coords="5,80,141,107"/>
+<area shape="rect" id="node2" href="$classAdafruit__Sensor.html" title="Common sensor interface to unify various sensors. Intentionally modeled after sensors...." alt="" coords="11,5,136,32"/>
+</map>

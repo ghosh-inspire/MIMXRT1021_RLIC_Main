@@ -1,0 +1,7 @@
+<map id="_semc_axi_queueweight" name="_semc_axi_queueweight">
+<area shape="rect" id="node1" title="SEMC AXI queue weight setting." alt="" coords="97,199,279,225"/>
+<area shape="rect" id="node2" href="$union__semc__queuea__weight.html" title="SEMC AXI queue a weight setting union." alt="" coords="5,109,176,136"/>
+<area shape="rect" id="node3" href="$struct__semc__queuea__weight__struct.html" title="SEMC AXI queue a weight setting structure." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node4" href="$union__semc__queueb__weight.html" title="SEMC AXI queue b weight setting union." alt="" coords="200,109,371,136"/>
+<area shape="rect" id="node5" href="$struct__semc__queueb__weight__struct.html" title="SEMC AXI queue b weight setting structure." alt="" coords="200,5,371,47"/>
+</map>

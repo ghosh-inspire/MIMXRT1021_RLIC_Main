@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['lpi2c1_5firqn_11891',['LPI2C1_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a066ecf1ba315ac60cb0dc863f801430c',1,'MIMXRT1021.h']]],
+  ['lpi2c2_5firqn_11892',['LPI2C2_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a929ae04c065538fe5ab1f4e9827949d5',1,'MIMXRT1021.h']]],
+  ['lpi2c3_5firqn_11893',['LPI2C3_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a5e9f8a84ef5cff9880bae88655b79c64',1,'MIMXRT1021.h']]],
+  ['lpi2c4_5firqn_11894',['LPI2C4_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a386b0e84699e8304defa086402915570',1,'MIMXRT1021.h']]],
+  ['lpspi1_5firqn_11895',['LPSPI1_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083abb26d5b7a7aad3666ede3faa5458e8c6',1,'MIMXRT1021.h']]],
+  ['lpspi2_5firqn_11896',['LPSPI2_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083ae1901126e6fe72ec3367335f070c0c7f',1,'MIMXRT1021.h']]],
+  ['lpspi3_5firqn_11897',['LPSPI3_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a75dd4d5f4125cdb26d729e1a916f11dc',1,'MIMXRT1021.h']]],
+  ['lpspi4_5firqn_11898',['LPSPI4_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083af3f349af7edb3e687c82d6b3ba393090',1,'MIMXRT1021.h']]],
+  ['lpuart1_5firqn_11899',['LPUART1_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083af5ac0e39fc168694d2b7d39018c6cc0a',1,'MIMXRT1021.h']]],
+  ['lpuart2_5firqn_11900',['LPUART2_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a36f25e24d8393f9e7b78ea70cc2b58ef',1,'MIMXRT1021.h']]],
+  ['lpuart3_5firqn_11901',['LPUART3_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083ac5af52ba0271dc1a16c718c6ac20e997',1,'MIMXRT1021.h']]],
+  ['lpuart4_5firqn_11902',['LPUART4_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a824bfa7f43e64bd4d405ddd02f2a149e',1,'MIMXRT1021.h']]],
+  ['lpuart5_5firqn_11903',['LPUART5_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a68c76b258d48673607dcb01487b003a4',1,'MIMXRT1021.h']]],
+  ['lpuart6_5firqn_11904',['LPUART6_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083aebf08eaa636afb23a43d209cd1d3ee42',1,'MIMXRT1021.h']]],
+  ['lpuart7_5firqn_11905',['LPUART7_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a5751d1000716f0cec25687848dc886f0',1,'MIMXRT1021.h']]],
+  ['lpuart8_5firqn_11906',['LPUART8_IRQn',['../group__Interrupt__vector__numbers.html#gga666eb0caeb12ec0e281415592ae89083a8afbc71b37802f879fc8fe4ed9f02e0d',1,'MIMXRT1021.h']]]
+];

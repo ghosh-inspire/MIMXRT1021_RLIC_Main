@@ -1,0 +1,6 @@
+<map id="_usdhc_scatter_gather_transfer" name="_usdhc_scatter_gather_transfer">
+<area shape="rect" id="node1" title="usdhc scatter gather transfer." alt="" coords="40,199,208,240"/>
+<area shape="rect" id="node2" href="$struct__usdhc__command.html" title="Card command descriptor." alt="" coords="5,109,144,136"/>
+<area shape="rect" id="node3" href="$struct__usdhc__scatter__gather__data.html" title="Card scatter gather data descriptor." alt="" coords="169,109,373,136"/>
+<area shape="rect" id="node4" href="$struct__usdhc__scatter__gather__data__list.html" title="Card scatter gather data list." alt="" coords="187,5,355,47"/>
+</map>

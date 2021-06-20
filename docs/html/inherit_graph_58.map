@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAdafruit__Sensor.html" title="Common sensor interface to unify various sensors. Intentionally modeled after sensors...." alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node2" href="$classAdafruit__TSL2591.html" title="Class that stores state and functions for interacting with TSL2591 Light Sensor." alt="" coords="179,5,315,32"/>
+</map>
